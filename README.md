@@ -1,2 +1,10 @@
-# lecture-2-cipherschool
-Writing The First Program - Hello World Course: C++ And Data Structures Algorithms
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+cout<<"Hello world";
+
+return 0;
+}
